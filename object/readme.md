@@ -2,7 +2,9 @@
 
 https://www.w3schools.com/jsref/jsref_obj_object.asp
 
-## Methods Link
+<br/>
+
+## Code Link
 
 | Javascript    | Code                                                                        |
 | ------------- | --------------------------------------------------------------------------- |

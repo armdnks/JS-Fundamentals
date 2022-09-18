@@ -1,6 +1,6 @@
 #!/bin/bash
 
-filepath=$1
+clear
 printf "\n"
-node $PWD/$filepath
+node $PWD/$1
 printf "\n"
