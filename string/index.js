@@ -5,7 +5,7 @@
  *  - A JavaScript string stores a series of characters like "John Doe".
  *  - A string can be any text inside double or single quotes:
  *
- *  #### Example:
+ *  @example
  *  - Double quotes :
  *  var text = "Hello World!"
  *  - Single quote :

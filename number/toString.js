@@ -2,18 +2,18 @@
  *  ## JavaScript Number toString()
  *  https://www.w3schools.com/jsref/jsref_tostring_number.asp
  *
- *  #### Definition and Usage :
+ *  @definition
  *  - The `toString()` returns a number as a string.
  *
- *  #### Note :
+ *  @note
  *  - Every JavaScript object has a `toString()` method.
  *  - The `toString()` method is used internally by JavaScript when an object needs to be displayed as a text (like in HTML), or when an object needs to be used as a string.
  *  - Normally, you will not use it in your own code.
  *
- *  #### Syntax :
+ *  @syntax
  *  number.toString(radix)
  *
- *  #### Parameters :
+ *  @parameters
  *  | Parameter | Description                          |
  *  |-----------|--------------------------------------|
  *  | radix     | Optional.                            |
@@ -23,7 +23,7 @@
  *  |           | Base 8 is octal                      |
  *  |           | Base 16 is hexadecimal.              |
  *
- *  #### Return Value :
+ *  @return_value
  *  | Type      | Description                          |
  *  |-----------|--------------------------------------|
  *  | A string  | The number as a string.              |

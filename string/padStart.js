@@ -4,7 +4,7 @@
  *
  *  The `padStart()` method pads a string with another string:
  *
- *  #### Note
+ *  @note
  *  - The `padStart()` method is a string method.
  *  - To pad a number, convert the number to a string first.
  *

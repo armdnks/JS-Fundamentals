@@ -2,21 +2,21 @@
  *  ## JavaScript String repeat()
  *  https://www.w3schools.com/jsref/jsref_repeat.asp
  *
- *  #### Definition and Usage :
+ *  @definition
  *  - The `repeat()` method returns a string with a number of copies of a string.
  *  - The `repeat()` method returns a new string.
  *  - The `repeat()` method does not change the original string.
  *
- *  #### Syntax :
+ *  @syntax
  *  string.repeat(count)
  *
- *  #### Parameters :
+ *  @parameters
  *  | Parameter | Description                          |
  *  |-----------|--------------------------------------|
  *  | count     | Required.                            |
  *  |           | The number of copies.                |
  *
- *  #### Return Value :
+ *  @return_value
  *  | Type      | Description                          |
  *  |-----------|--------------------------------------|
  *  | A string  | The copies of the original string.   |

@@ -2,21 +2,21 @@
  *  ## JavaScript String charAt()
  *  https://www.w3schools.com/jsref/jsref_charat.asp
  *
- *  #### Definition and Usage :
+ *  @definition
  *  - The `charAt()` method returns the character at a specified index (position) in a string.
  *  - The index of the first character is 0, the second 1, ...
  *
- *  #### Syntax :
+ *  @syntax
  *  string.charAt(index)
  *
- *  #### Parameters :
+ *  @parameters
  *  | Parameter | Description                            |
  *  |-----------|----------------------------------------|
  *  | index     | Optional                               |
  *  |           | The index (position) of the character. |
  *  |           | Default = 0.                           |
  *
- *  #### Return Value :
+ *  @return_value
  *  | Type      | Description                                     |
  *  |-----------|-------------------------------------------------|
  *  | String    | The character at the specified index.           |

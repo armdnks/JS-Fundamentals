@@ -2,14 +2,14 @@
  *  ## JavaScript JSON stringify() Method
  *  https://www.w3schools.com/jsref/jsref_stringify.asp
  *
- *  #### Definition and Usage :
- *  - The JSON.stringify() method converts JavaScript objects into strings.
+ *  @definition
+ *  - The `JSON.stringify()` method converts JavaScript objects into strings.
  *  - When sending data to a web server the data has to be a string.
  *
- *  #### Syntax :
+ *  @syntax
  *  JSON.stringify(obj, replacer, space)
  *
- *  #### Parameters :
+ *  @parameters
  *  | Parameter | Description                                                                             |
  *  | --------- | --------------------------------------------------------------------------------------- |
  *  | obj       | Required.                                                                               |

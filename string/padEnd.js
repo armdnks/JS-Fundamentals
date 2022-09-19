@@ -4,7 +4,7 @@
  *
  *  The `padEnd()` method pads a string with another string:
  *
- *  #### Note
+ *  @note
  *  - The `padEnd()` method is a string method.
  *  - To pad a number, convert the number to a string first.
  *

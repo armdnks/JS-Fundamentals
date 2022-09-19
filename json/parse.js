@@ -2,15 +2,15 @@
  *  ## JavaScript JSON parse() Method
  *  https://www.w3schools.com/jsref/jsref_parse_json.asp
  *
- *  #### Definition and Usage :
+ *  @definition
  *  - The `JSON.parse()` method parses a string and returns a JavaScript object.
  *  - The string has to be written in JSON format.
  *  - The `JSON.parse()` method can optionally transform the result with a function.
  *
- *  #### Syntax :
+ *  @syntax
  *  JSON.parse(string, function)
  *
- *  #### Parameters :
+ *  @parameters
  *  | Parameter        | Description                                                                                       |
  *  |------------------|---------------------------------------------------------------------------------------------------|
  *  | string           | Required. A string written in JSON format                                                         |

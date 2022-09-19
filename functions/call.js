@@ -15,7 +15,7 @@
  *  - In an event, `this` refers to the element that received the event.
  *  - Methods like `call()`, `apply()`, and `bind()` can refer this to any object.
  *
- *  #### Note :
+ *  @note
  *  - `this` is not a variable. It is a keyword. You cannot change the value of this.
  *
  *

@@ -6,6 +6,7 @@ https://www.w3schools.com/jsref/default.asp
 
 | Javascript | Link                                                                   |
 | ---------- | ---------------------------------------------------------------------- |
+| Array      | [Link](https://github.com/armdnks/JS-Fundamentals/tree/main/array)     |
 | Functions  | [Link](https://github.com/armdnks/JS-Fundamentals/tree/main/functions) |
 | JSON       | [Link](https://github.com/armdnks/JS-Fundamentals/tree/main/json)      |
 | Number     | [Link](https://github.com/armdnks/JS-Fundamentals/tree/main/number)    |
